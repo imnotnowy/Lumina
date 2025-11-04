@@ -1,2 +1,2 @@
 # Lumina
-roblox thingy :3
+the WORST Die of Death script.
