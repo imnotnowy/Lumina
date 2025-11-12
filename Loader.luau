@@ -6,7 +6,7 @@ local h = loadstring(game:HttpGet("https://raw.githubusercontent.com/imnotnowy/o
 if game.PlaceId == 71895508397153 then -- die of death
   loadstring(game:HttpGet("https://luminaa.pages.dev/luau/dod.lua"))()
   h:Notify({Title = "Loading.", Description = "game: die of death", Time = 5})
-else
+else -- universal
   loadstring(game:HttpGet("https://luminaa.pages.dev/luau/dod.lua"))()
   h:Notify({Title = "Loading.", Description = "game: universal", Time = 5})
 end
